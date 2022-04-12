@@ -8,4 +8,4 @@ right’, 560 samples of ‘None-fall’, respectively.
 Time date: yyyy/mm/dd/hr:min:sec 
 SubjectID: An identifier of the subject who carried out the experiment.
 SequenceID: The total points of different activities. 
-Behaviour: 0- Fall forward; 1- Fall backward; 2- Fall left; 3- Fall right; 5-No Activity. 
+Behaviour: 0- Fall forward; 1- Fall backward; 2- Fall left; 3- Fall right; 5-None-fall. 
